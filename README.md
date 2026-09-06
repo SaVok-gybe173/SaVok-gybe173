@@ -87,4 +87,5 @@
 
 
 ## My projects
-- <a href="https://github.com/SaVok-gybe173/PyForge">🕵️‍♂️ PyForge</a>
+- <a href="https://github.com/SaVok-gybe173/PyForge">Pygame Forge</a>
+- <a href="https://github.com/SaVok-gybe173/NeoChat">Neo Chat</a>
