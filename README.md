@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’m Savok. I write in Python, I do backend and application software.</div>  
+### <div align="center">I’m Savok. Write in Python, I do backend and application software.</div>  
 
 - I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
