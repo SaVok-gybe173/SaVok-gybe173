@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’m Savok. Write in Python, I do backend and application software.</div>  
+### <div align="center">I write in Python, I work on the backend and software development.</div>  
 
 - I’m currently working on [Github PyForge](https://github.com/SaVok-gybe173/PyForge)  
   
